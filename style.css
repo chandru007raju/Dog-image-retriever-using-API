@@ -1,0 +1,30 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  #flex{
+    padding: 40px;
+    display: flex;
+    float: left;
+    background-color: lightcoral;
+  }
+  
+  #dogImage{
+    display: flex;
+    padding: 40px;
+    float: right;
+  }
+  #catImage{
+    display: flex;
+    padding: 40px;
+    float: right;
+  }
+  
+  #button{
+    background-color: lightblue;
+    display: flex;
+    border-radius: 15px;
+    padding: 10px;
+    text-align: center;
+  }
